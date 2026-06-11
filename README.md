@@ -1,5 +1,7 @@
 # Expense Tracker
 
+> App de seguimiento de gastos personales con Next.js e IA
+
 A modern, responsive personal expense tracking app built with **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS**, and **Recharts**. All data is stored locally in your browser via `localStorage`.
 
 ## Features
